@@ -1,0 +1,6 @@
+{
+  "name": "Movie Autocomplete",
+  "srcdoc": "./app.html",
+  "id": "movie-autocomplete",
+  "fieldTypes": ["Symbol"]
+}
